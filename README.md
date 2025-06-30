@@ -16,7 +16,7 @@
 ### 2. Значения x и k ввести с клавиатуры. 
 ### 3. Факториал и степень в слагаемых отдельно не считать! 
 ### 4. Сравнить полученный результат со значением, вычисленным через стандартные функции.
-! ![image](https://github.com/user-attachments/assets/76042055-5e3e-49f2-ac73-3beff034ae88)
+![image](https://github.com/user-attachments/assets/76042055-5e3e-49f2-ac73-3beff034ae88)
 
 
 ## Laboratory Work 3
